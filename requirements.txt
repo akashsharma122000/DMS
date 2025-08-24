@@ -4,4 +4,6 @@ networkx
 matplotlib
 plotly
 streamlit
+openpyxl
 streamlit-image-zoom
+
